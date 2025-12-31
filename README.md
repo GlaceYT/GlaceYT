@@ -6,11 +6,6 @@
 <h1 align="center">Hi, I'm Ponnala Shiva Reddy</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GlaceYT&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/GlaceYT?label=Followers&style=social" alt="followers" />
-</p>
-
 ---
 
 ### 🚀 About Me
