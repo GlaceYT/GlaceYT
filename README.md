@@ -3,8 +3,8 @@
   <img src="https://i.ibb.co/GfTxbJfC/7-edited.png" alt="Banner" width="100%"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Ponnala Shiva Charan</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Cross-Platform Application Builder</h3>
+<h1 align="center">Hi, I'm Ponnala Shiva Reddy</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GlaceYT&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
