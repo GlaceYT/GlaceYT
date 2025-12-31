@@ -1,100 +1,223 @@
-# Hi there! 👋 I'm GlaceYT
-
-Welcome to my GitHub profile! I'm a passionate developer dedicated to creating meaningful projects and contributing to the community. 
-
----
-
-## 🚀 About Me
-
-I'm enthusiastic about coding, learning new technologies, and collaborating with talented developers. I believe in writing clean code and building solutions that make a difference. 
-
-**Currently:** Open to exciting projects and collaborations  
-**Interests:** Full-stack development, open source, problem-solving
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue. js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
+<!-- Banner Space - Add your custom banner here -->
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlaceYT&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlaceYT&layout=compact&theme=radical)
-
+  <img src="https://i.ibb.co/GfTxbJfC/7-edited.png" alt="Banner" width="100%"/>
 </div>
 
----
+<h1 align="center">Hi 👋, I'm Ponnala Shiva Charan</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Cross-Platform Application Builder</h3>
 
-## 🎯 Featured Projects
-
-Here are some of my favorite projects:
-
-### Project One
-> Brief description of what this project does
-- **Tech Stack:** Technology 1, Technology 2
-- **[View Repository](https://github.com/GlaceYT/project-one)**
-
-### Project Two
-> Brief description of what this project does
-- **Tech Stack:** Technology 1, Technology 2
-- **[View Repository](https://github.com/GlaceYT/project-two)**
-
-### Project Three
-> Brief description of what this project does
-- **Tech Stack:** Technology 1, Technology 2
-- **[View Repository](https://github.com/GlaceYT/project-three)**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GlaceYT&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/GlaceYT?label=Followers&style=social" alt="followers" />
+</p>
 
 ---
 
-## 🤝 Let's Connect! 
+### 🚀 About Me
 
-I love meeting fellow developers and discussing ideas. Feel free to reach out:
-
-- **Email:** your.email@example.com
-- **Twitter:** [@YourHandle](https://twitter.com/YourHandle)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-
----
-
-## 💡 What I'm Currently Learning
-
-- Advanced system design patterns
-- Cloud architecture (AWS/GCP)
-- Machine learning basics
+- 🔭 I'm a **Full-Stack Developer** specializing in **MERN Stack** and **Cross-Platform Development**
+- 💻 Building scalable solutions with **Node.js, React, Python, C#, Java, C++, and Flutter**
+- 🤖 Passionate about **AI/ML Integration** using **TensorFlow, YOLOv8, and Hugging Face**
+- 🎮 Creating **Discord Bots** with **650+ commands** and web dashboards
+- 🏆 **Smart India Hackathon 2024** - Qualified for Round Two
+- 📱 Developed **RailEase** - Full-stack railway management platform
+- 🎓 B.Tech in **CSE - AI & DS** at Sri Indu College of Engineering and Technology
+- 📍 Based in **Hyderabad, Telangana**
+- 📧 Reach me at: **Ponnala9300@gmail.com**
+- 🌐 Portfolio: **[ssrr.tech/portfolio](https://ssrr.tech/portfolio)**
 
 ---
 
-## 📝 Fun Facts
+### 🌐 Connect With Me
 
-- ⚡ I code best with ☕ coffee and 🎵 lo-fi beats
-- 🎮 Gaming enthusiast
-- 🌍 Always eager to learn from different cultures
-- 📚 Reader and tech blogger
+<p align="left">
+<a href="https://github.com/GlaceYT" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/ponnalashivacharan" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@GlaceYT" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://replit.com/@GlaceYT" target="_blank"><img align="center" src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" /></a>
+</p>
 
 ---
 
-<div align="center">
+### 💻 Programming Languages
 
-**Thanks for visiting my profile! Feel free to check out my repositories and don't hesitate to reach out! ** ⭐
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
 
-</div>
+---
+
+### 🛠️ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+---
+
+### 🎨 Design & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+</p>
+
+---
+
+### 🔧 IDEs & Editors
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎯 RailEase - Railway Management Platform
+> Full-stack solution with Flutter mobile app, React web portal, and AI chatbot for railway safety and passenger assistance
+
+**Tech Stack:** Flutter • React • Python • Microsoft Bot SDK • Node.js
+
+---
+
+#### 🤖 Discord Bot System (650+ Commands)
+> Comprehensive Discord bot with moderation, media, logging, and automation features. Includes React + TypeScript web dashboard with OAuth2
+
+**Tech Stack:** Node.js • Discord.js • React • TypeScript • MongoDB
+
+---
+
+#### 💼 SmartX - Windows Productivity Suite
+> Desktop application with calculator, to-do list, notes, and media player built for performance and ease of use
+
+**Tech Stack:** WinUI 3 • C# • .NET
+
+---
+
+#### 🌐 WebCraft - Cross-Platform Code Editor
+> Offline HTML/CSS/JavaScript compiler for rapid web development and prototyping
+
+**Tech Stack:** Electron.js • JavaScript • HTML/CSS
+
+---
+
+#### 👁️ Real-Time Object Detection System
+> Lightweight YOLOv8-based detection system for edge computing and smart surveillance
+
+**Tech Stack:** Python • YOLOv8 • OpenCV • TensorFlow
+
+---
+
+#### 🔐 Full Authentication System + API Key Generator
+> Secure backend system for user authentication and dynamic API key management
+
+**Tech Stack:** Java • Spring Boot • PostgreSQL
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GlaceYT&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GlaceYT&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaceYT&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GlaceYT&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GlaceYT&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+### 🎯 Current Focus
+
+- 🔨 Building AI-powered applications and integrations
+- 📱 Developing cross-platform mobile and desktop solutions
+- 🤖 Creating advanced Discord bot systems with web dashboards
+- 🧠 Exploring Machine Learning and Computer Vision applications
+- 🚀 Contributing to open-source projects
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
+</p>
+
+<p align="center">
+  <i>⚡ "Working smarter with modern tools to build fast and create real-world products that last" ⚡</i>
+</p>
+
+<p align="center">
+  Made with ❤️ by Ponnala Shiva Charan
+</p>
