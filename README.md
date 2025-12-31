@@ -15,16 +15,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm a **Full-Stack Developer** specializing in **MERN Stack** and **Cross-Platform Development**
-- 💻 Building scalable solutions with **Node.js, React, Python, C#, Java, C++, and Flutter**
-- 🤖 Passionate about **AI/ML Integration** using **TensorFlow, YOLOv8, and Hugging Face**
-- 🎮 Creating **Discord Bots** with **650+ commands** and web dashboards
-- 🏆 **Smart India Hackathon 2024** - Qualified for Round Two
-- 📱 Developed **RailEase** - Full-stack railway management platform
-- 🎓 B.Tech in **CSE - AI & DS** at Sri Indu College of Engineering and Technology
-- 📍 Based in **Hyderabad, Telangana**
+- 🔭 I'm a **Full-Stack Developer**
 - 📧 Reach me at: **Ponnala9300@gmail.com**
-- 🌐 Portfolio: **[ssrr.tech/portfolio](https://ssrr.tech/portfolio)**
+- 🌐 Portfolio: **[glaceyt.com/portfolio](https://glaceyt.com/portfolio)**
 
 ---
 
