@@ -4,7 +4,6 @@
 </div>
 
 <h1 align="center">Hi, I'm Ponnala Shiva Reddy</h1>
----
 
 ### 🚀 About Me
 
@@ -12,7 +11,6 @@
 - 📧 Reach me at: **Ponnala9300@gmail.com**
 - 🌐 Portfolio: **[glaceyt.com/portfolio](https://glaceyt.com/portfolio)**
 
----
 
 <div align="center">
   
