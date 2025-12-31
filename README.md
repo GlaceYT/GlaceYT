@@ -182,42 +182,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GlaceYT&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GlaceYT&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-### 🎯 Current Focus
-
-- 🔨 Building AI-powered applications and integrations
-- 📱 Developing cross-platform mobile and desktop solutions
-- 🤖 Creating advanced Discord bot systems with web dashboards
-- 🧠 Exploring Machine Learning and Computer Vision applications
-- 🚀 Contributing to open-source projects
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
-</p>
-
-<p align="center">
-  <i>⚡ "Working smarter with modern tools to build fast and create real-world products that last" ⚡</i>
-</p>
-
-<p align="center">
-  Made with ❤️ by Ponnala Shiva Charan
 </p>
