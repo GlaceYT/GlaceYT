@@ -164,13 +164,5 @@ EMAIL      ›  Ponnala9300@gmail.com
 [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000&label=%40GlaceYT)](https://www.youtube.com/@GlaceYT)&nbsp;&nbsp;
 [![Replit](https://img.shields.io/badge/Replit-0d1117?style=flat-square&logo=replit&logoColor=667881&label=%40GlaceYT)](https://replit.com/@GlaceYT)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&label=Ponnala9300)](mailto:Ponnala9300@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=GlaceYT&color=C9A84C&style=flat-square&label=profile+views)
-
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0d0d&height=90&section=footer" width="100%"/>
