@@ -1,379 +1,107 @@
-<!-- Unique Header with Avatar & Gradient Name -->
+<!-- Banner Space - Add your custom banner here -->
+<div align="center">
+  <img src="https://i.ibb.co/GfTxbJfC/7-edited.png" alt="Banner" width="100%"/>
+</div>
+
+<h1 align="center">Hi, I'm Ponnala Shiva Reddy</h1>
+
+### 🚀 About Me
+
+- 🔭 I'm a **Full-Stack Developer**
+- 📧 Reach me at: **Ponnala9300@gmail.com**
+- 🌐 Portfolio: **[glaceyt.com/portfolio](https://glaceyt.com/portfolio)**
+
+
 <div align="center">
   
-  <!-- Abstract avatar ring -->
-  <div style="
-    width: 140px; height: 140px;
-    border-radius: 50%;
-    padding: 6px;
-    background: linear-gradient(135deg, #6EE7B7 0%, #3B82F6 50%, #9333EA 100%);
-    display: inline-block;
-    margin-bottom: 24px;
-    box-shadow: 0 0 32px rgba(59,130,246,0.25);
-  ">
-    <div style="
-      width: 100%; height: 100%;
-      border-radius: 50%;
-      background: #0F172A;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 52px;
-      font-weight: 700;
-      font-family: 'Segoe UI', system-ui, sans-serif;
-      color: white;
-      letter-spacing: -2px;
-    ">PSR</div>
-  </div>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GlaceYT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponnalashivacharan)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GlaceYT)
+[![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@GlaceYT)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://glaceyt.com/portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ponnala9300@gmail.com)
 
-  <!-- Name with multi-colored gradient -->
-  <h1 style="
-    font-size: 3.5rem;
-    font-weight: 800;
-    background: linear-gradient(to right, #6EE7B7, #3B82F6, #9333EA);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    margin: 0 0 8px 0;
-    letter-spacing: -0.5px;
-  ">Ponnala Shiva Reddy</h1>
-  
-  <!-- Subtitle with tagline -->
-  <p style="
-    font-size: 1.2rem;
-    color: #94A3B8;
-    font-weight: 500;
-    letter-spacing: 0.15em;
-    margin-top: 0;
-  ">FULL-STACK DEVELOPER · CREATIVE TECHNOLOGIST</p>
-  
-  <!-- Decorative divider -->
-  <div style="
-    width: 64px;
-    height: 4px;
-    background: linear-gradient(90deg, #6EE7B7, #3B82F6);
-    border-radius: 2px;
-    margin: 24px auto;
-  "></div>
-
-  <!-- Quick contact pills -->
-  <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
-    <a href="https://github.com/GlaceYT" style="
-      background: #1E293B;
-      padding: 8px 20px;
-      border-radius: 64px;
-      text-decoration: none;
-      color: #E2E8F0;
-      font-weight: 500;
-      font-size: 0.95rem;
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      border: 1px solid #334155;
-      transition: all 0.2s ease;
-    " onmouseover="this.style.background='#334155'; this.style.border='1px solid #6EE7B7'" onmouseout="this.style.background='#1E293B'; this.style.border='1px solid #334155'">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="18" height="18" style="filter: invert(1)"/> GitHub
-    </a>
-    <a href="https://www.linkedin.com/in/ponnalashivacharan" style="
-      background: #1E293B;
-      padding: 8px 20px;
-      border-radius: 64px;
-      text-decoration: none;
-      color: #E2E8F0;
-      font-weight: 500;
-      font-size: 0.95rem;
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      border: 1px solid #334155;
-      transition: all 0.2s ease;
-    " onmouseover="this.style.background='#334155'; this.style.border='1px solid #3B82F6'" onmouseout="this.style.background='#1E293B'; this.style.border='1px solid #334155'">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: invert(1)"/> LinkedIn
-    </a>
-    <a href="mailto:Ponnala9300@gmail.com" style="
-      background: #1E293B;
-      padding: 8px 20px;
-      border-radius: 64px;
-      text-decoration: none;
-      color: #E2E8F0;
-      font-weight: 500;
-      font-size: 0.95rem;
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      border: 1px solid #334155;
-      transition: all 0.2s ease;
-    " onmouseover="this.style.background='#334155'; this.style.border='1px solid #9333EA'" onmouseout="this.style.background='#1E293B'; this.style.border='1px solid #334155'">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="18" height="18" style="filter: invert(1)"/> Email
-    </a>
-    <a href="https://glaceyt.com/portfolio" style="
-      background: #1E293B;
-      padding: 8px 20px;
-      border-radius: 64px;
-      text-decoration: none;
-      color: #E2E8F0;
-      font-weight: 500;
-      font-size: 0.95rem;
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      border: 1px solid #334155;
-      transition: all 0.2s ease;
-    " onmouseover="this.style.background='#334155'; this.style.border='1px solid #F59E0B'" onmouseout="this.style.background='#1E293B'; this.style.border='1px solid #334155'">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="18" height="18" style="filter: invert(1)"/> Portfolio
-    </a>
-  </div>
 </div>
 
-<br/>
+---
 
-<!-- About Section – Unique card with left accent -->
-<div style="
-  background: #FFFFFF;
-  border: 1px solid #E2E8F0;
-  border-left: 6px solid #3B82F6;
-  border-radius: 16px;
-  padding: 28px 32px;
-  margin: 0 0 48px 0;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.02);
-">
-  <h2 style="
-    margin: 0 0 16px 0;
-    font-size: 1.8rem;
-    font-weight: 700;
-    color: #0F172A;
-    display: flex;
-    align-items: center;
-    gap: 12px;
-  ">
-    <span style="
-      background: linear-gradient(135deg, #3B82F6, #9333EA);
-      width: 8px;
-      height: 32px;
-      border-radius: 4px;
-      display: inline-block;
-    "></span>
-    About Me
-  </h2>
-  <p style="
-    color: #475569;
-    font-size: 1.1rem;
-    line-height: 1.7;
-    margin: 0;
-  ">
-    I architect digital experiences from concept to deployment. 
-    With deep expertise across the full stack, I turn complex problems into 
-    polished, high-performance applications. I’m equally passionate about 
-    clean code, intuitive design, and the subtle details that make software 
-    feel alive.
-  </p>
-</div>
+### 💻 Programming Languages
 
-<!-- Tech Stack – Grid-based unique layout -->
-<div align="center">
-  <h2 style="
-    font-size: 2rem;
-    font-weight: 700;
-    color: #0F172A;
-    margin-bottom: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 12px;
-  ">
-    <span style="color: #3B82F6;">▹</span> Technical Arsenal <span style="color: #9333EA;">◃</span>
-  </h2>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 28px; margin-bottom: 48px;">
+---
 
-  <!-- Languages -->
-  <div style="
-    background: #F8FAFC;
-    border-radius: 24px;
-    padding: 24px;
-    border: 1px solid #E2E8F0;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 20px 32px rgba(0,0,0,0.06)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-    <h3 style="
-      margin: 0 0 20px 0;
-      font-size: 1.25rem;
-      font-weight: 700;
-      color: #0F172A;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    ">
-      <span style="font-size: 1.5rem;">📐</span> Languages
-    </h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">JavaScript</span>
-      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">TypeScript</span>
-      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Python</span>
-      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Java</span>
-      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">C++</span>
-      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">C#</span>
-      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Dart</span>
-    </div>
-  </div>
+### 🛠️ Frameworks & Libraries
 
-  <!-- Frameworks & Libraries -->
-  <div style="
-    background: #F8FAFC;
-    border-radius: 24px;
-    padding: 24px;
-    border: 1px solid #E2E8F0;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 20px 32px rgba(0,0,0,0.06)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-    <h3 style="
-      margin: 0 0 20px 0;
-      font-size: 1.25rem;
-      font-weight: 700;
-      color: #0F172A;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    ">
-      <span style="font-size: 1.5rem;">⚙️</span> Frameworks
-    </h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">React</span>
-      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Next.js</span>
-      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Node.js</span>
-      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Express</span>
-      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Flutter</span>
-      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Electron</span>
-      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Discord.js</span>
-      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">TensorFlow</span>
-      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Spring Boot</span>
-      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Pandas</span>
-    </div>
-  </div>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
 
-  <!-- Databases -->
-  <div style="
-    background: #F8FAFC;
-    border-radius: 24px;
-    padding: 24px;
-    border: 1px solid #E2E8F0;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 20px 32px rgba(0,0,0,0.06)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-    <h3 style="
-      margin: 0 0 20px 0;
-      font-size: 1.25rem;
-      font-weight: 700;
-      color: #0F172A;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    ">
-      <span style="font-size: 1.5rem;">🗄️</span> Databases
-    </h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="background: #D1FAE5; color: #065F46; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">MongoDB</span>
-      <span style="background: #D1FAE5; color: #065F46; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Firebase</span>
-      <span style="background: #D1FAE5; color: #065F46; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">PostgreSQL</span>
-      <span style="background: #D1FAE5; color: #065F46; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">MySQL</span>
-    </div>
-  </div>
+---
 
-  <!-- Cloud & DevOps -->
-  <div style="
-    background: #F8FAFC;
-    border-radius: 24px;
-    padding: 24px;
-    border: 1px solid #E2E8F0;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 20px 32px rgba(0,0,0,0.06)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-    <h3 style="
-      margin: 0 0 20px 0;
-      font-size: 1.25rem;
-      font-weight: 700;
-      color: #0F172A;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    ">
-      <span style="font-size: 1.5rem;">☁️</span> Cloud & DevOps
-    </h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="background: #FEF3C7; color: #92400E; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">AWS</span>
-      <span style="background: #FEF3C7; color: #92400E; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Docker</span>
-      <span style="background: #FEF3C7; color: #92400E; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Git</span>
-      <span style="background: #FEF3C7; color: #92400E; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">npm</span>
-      <span style="background: #FEF3C7; color: #92400E; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Postman</span>
-    </div>
-  </div>
+### 🗄️ Databases
 
-  <!-- Design & Creative Tools -->
-  <div style="
-    background: #F8FAFC;
-    border-radius: 24px;
-    padding: 24px;
-    border: 1px solid #E2E8F0;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 20px 32px rgba(0,0,0,0.06)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-    <h3 style="
-      margin: 0 0 20px 0;
-      font-size: 1.25rem;
-      font-weight: 700;
-      color: #0F172A;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    ">
-      <span style="font-size: 1.5rem;">🎨</span> Design & Creative
-    </h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="background: #FFEDD5; color: #9A3412; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Figma</span>
-      <span style="background: #FFEDD5; color: #9A3412; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Photoshop</span>
-      <span style="background: #FFEDD5; color: #9A3412; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">After Effects</span>
-      <span style="background: #FFEDD5; color: #9A3412; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Blender</span>
-      <span style="background: #FFEDD5; color: #9A3412; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Unity</span>
-      <span style="background: #FFEDD5; color: #9A3412; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Unreal Engine</span>
-    </div>
-  </div>
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
-  <!-- IDEs & Editors -->
-  <div style="
-    background: #F8FAFC;
-    border-radius: 24px;
-    padding: 24px;
-    border: 1px solid #E2E8F0;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 20px 32px rgba(0,0,0,0.06)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-    <h3 style="
-      margin: 0 0 20px 0;
-      font-size: 1.25rem;
-      font-weight: 700;
-      color: #0F172A;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    ">
-      <span style="font-size: 1.5rem;">🖥️</span> Editors
-    </h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="background: #E0E7FF; color: #3730A3; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">VS Code</span>
-      <span style="background: #E0E7FF; color: #3730A3; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Visual Studio</span>
-      <span style="background: #E0E7FF; color: #3730A3; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Android Studio</span>
-    </div>
-  </div>
-</div>
+---
 
-<!-- Footer with wave -->
-<div align="center" style="margin-top: 64px;">
-  <svg width="100%" height="64" viewBox="0 0 1440 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0,64L48,58.7C96,53,192,43,288,48C384,53,480,75,576,80C672,85,768,75,864,64C960,53,1056,43,1152,42.7C1248,43,1344,53,1392,58.7L1440,64L1440,100L1392,100C1344,100,1248,100,1152,100C1056,100,960,100,864,100C768,100,672,100,576,100C480,100,384,100,288,100C192,100,96,100,48,100L0,100Z" fill="url(#gradient)" />
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#3B82F6" />
-        <stop offset="50%" stop-color="#9333EA" />
-        <stop offset="100%" stop-color="#6EE7B7" />
-      </linearGradient>
-    </defs>
-  </svg>
-  <p style="color: #64748B; font-size: 0.9rem; margin-top: 8px;">
-    © 2026 Ponnala Shiva Reddy · Built with creativity, not templates.
-  </p>
-</div>
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+---
+
+### 🎨 Design & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+</p>
+
+---
+
+### 🔧 IDEs & Editors
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
+</p>
