@@ -1,107 +1,176 @@
-<!-- Banner Space - Add your custom banner here -->
 <div align="center">
-  <img src="https://i.ibb.co/GfTxbJfC/7-edited.png" alt="Banner" width="100%"/>
-</div>
 
-<h1 align="center">Hi, I'm Ponnala Shiva Reddy</h1>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0d0d&height=220&section=header&text=PONNALA%20SHIVA%20REDDY&fontSize=44&fontColor=FFFFFF&fontAlignY=44&desc=%E2%80%94%20Full-Stack%20Developer%20%40%20GlaceYT%20%E2%80%94&descSize=15&descAlignY=68&descColor=C9A84C" width="100%"/>
 
-### 🚀 About Me
+<br/>
 
-- 🔭 I'm a **Full-Stack Developer**
-- 📧 Reach me at: **Ponnala9300@gmail.com**
-- 🌐 Portfolio: **[glaceyt.com/portfolio](https://glaceyt.com/portfolio)**
-
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GlaceYT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponnalashivacharan)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GlaceYT)
-[![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@GlaceYT)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://glaceyt.com/portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ponnala9300@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2200&pause=900&color=C9A84C&center=true&vCenter=true&width=560&lines=JavaScript+%2F+TypeScript+%2F+Python+%2F+Java;React+%2F+Next.js+%2F+Node.js+%2F+Flutter;MongoDB+%2F+PostgreSQL+%2F+Firebase+%2F+MySQL;Docker+%2F+AWS+%2F+Git+%2F+Spring+Boot;Building+things+that+ship+and+scale.)](https://github.com/GlaceYT)
 
 </div>
 
----
+<br/>
 
-### 💻 Programming Languages
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-</p>
+<br/>
 
----
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="56%" valign="top">
 
-### 🛠️ Frameworks & Libraries
+### `◈  WHO I AM`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
+Full-stack developer comfortable across the entire product lifecycle —
+from architecting database schemas to building pixel-level UI components.
 
----
+Shipped production-grade systems across **web**, **mobile**, **desktop**,
+and **game** environments. I write code that ships, scales, and doesn't
+break at 3am.
 
-### 🗄️ Databases
+```
+LOCATION   ›  Hyderabad, India
+FOCUS      ›  Web · Mobile · Cloud · Game Dev
+STATUS     ›  Open to collabs & freelance
+PORTFOLIO  ›  glaceyt.com/portfolio
+EMAIL      ›  Ponnala9300@gmail.com
+```
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+</td>
+<td width="4%"></td>
+<td width="40%" valign="top" align="right">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlaceYT&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=C9A84C&icon_color=C9A84C&text_color=ffffff&ring_color=C9A84C)
 
-### ☁️ Cloud & DevOps
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
 
-### 🎨 Design & Tools
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
-</p>
+### `◈  STACK`
 
----
+<br/>
 
-### 🔧 IDEs & Editors
+**Languages**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)&nbsp;
+![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=239120)&nbsp;
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2)
 
----
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
-</p>
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)&nbsp;
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B)&nbsp;
+![Electron](https://img.shields.io/badge/Electron-0d1117?style=flat-square&logo=electron&logoColor=47848F)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![Discord.js](https://img.shields.io/badge/Discord.js-0d1117?style=flat-square&logo=discord&logoColor=5865F2)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
+
+<br/>
+
+**Data**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+
+<br/>
+
+**Cloud · DevOps · Tooling**
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)&nbsp;
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)&nbsp;
+![npm](https://img.shields.io/badge/npm-0d1117?style=flat-square&logo=npm&logoColor=CB3837)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
+![Blender](https://img.shields.io/badge/Blender-0d1117?style=flat-square&logo=blender&logoColor=E87D0D)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-0d1117?style=flat-square&logo=unity&logoColor=ffffff)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0d1117?style=flat-square&logo=unrealengine&logoColor=ffffff)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-0d1117?style=flat-square&logo=androidstudio&logoColor=3DDC84)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
+
+<br/>
+
+### `◈  METRICS`
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="6">
+<tr>
+<td align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GlaceYT&theme=github-dark-blue&hide_border=true&background=00000000&stroke=C9A84C&ring=C9A84C&fire=C9A84C&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=888888&sideLabels=888888&dates=888888)](https://github.com/GlaceYT)
+
+</td>
+<td align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlaceYT&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=C9A84C&text_color=ffffff&langs_count=8)](https://github.com/GlaceYT)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
+
+<br/>
+
+### `◈  ACTIVITY`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GlaceYT&theme=github-compact&bg_color=00000000&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=C9A84C&hide_border=true)](https://github.com/GlaceYT)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
+
+<br/>
+
+### `◈  CONNECT`
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=C9A84C&label=glaceyt.com%2Fportfolio)](https://glaceyt.com/portfolio)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&label=ponnalashivacharan)](https://www.linkedin.com/in/ponnalashivacharan)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff&label=GlaceYT)](https://github.com/GlaceYT)&nbsp;&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000&label=%40GlaceYT)](https://www.youtube.com/@GlaceYT)&nbsp;&nbsp;
+[![Replit](https://img.shields.io/badge/Replit-0d1117?style=flat-square&logo=replit&logoColor=667881&label=%40GlaceYT)](https://replit.com/@GlaceYT)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&label=Ponnala9300)](mailto:Ponnala9300@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=GlaceYT&color=C9A84C&style=flat-square&label=profile+views)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0d0d&height=90&section=footer" width="100%"/>
