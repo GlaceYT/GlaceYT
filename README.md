@@ -35,13 +35,6 @@ PORTFOLIO  ›  glaceyt.com/portfolio
 EMAIL      ›  Ponnala9300@gmail.com
 ```
 
-</td>
-<td width="4%"></td>
-<td width="40%" valign="top" align="right">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlaceYT&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=C9A84C&icon_color=C9A84C&text_color=ffffff&ring_color=C9A84C)
-
-</td>
 </tr>
 </table>
 
