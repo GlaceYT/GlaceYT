@@ -1,160 +1,379 @@
+<!-- Unique Header with Avatar & Gradient Name -->
 <div align="center">
+  
+  <!-- Abstract avatar ring -->
+  <div style="
+    width: 140px; height: 140px;
+    border-radius: 50%;
+    padding: 6px;
+    background: linear-gradient(135deg, #6EE7B7 0%, #3B82F6 50%, #9333EA 100%);
+    display: inline-block;
+    margin-bottom: 24px;
+    box-shadow: 0 0 32px rgba(59,130,246,0.25);
+  ">
+    <div style="
+      width: 100%; height: 100%;
+      border-radius: 50%;
+      background: #0F172A;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 52px;
+      font-weight: 700;
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      color: white;
+      letter-spacing: -2px;
+    ">PSR</div>
+  </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0d0d&height=220&section=header&text=PONNALA%20SHIVA%20REDDY&fontSize=44&fontColor=FFFFFF&fontAlignY=44&desc=%E2%80%94%20Full-Stack%20Developer%20%40%20GlaceYT%20%E2%80%94&descSize=15&descAlignY=68&descColor=C9A84C" width="100%"/>
+  <!-- Name with multi-colored gradient -->
+  <h1 style="
+    font-size: 3.5rem;
+    font-weight: 800;
+    background: linear-gradient(to right, #6EE7B7, #3B82F6, #9333EA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin: 0 0 8px 0;
+    letter-spacing: -0.5px;
+  ">Ponnala Shiva Reddy</h1>
+  
+  <!-- Subtitle with tagline -->
+  <p style="
+    font-size: 1.2rem;
+    color: #94A3B8;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    margin-top: 0;
+  ">FULL-STACK DEVELOPER · CREATIVE TECHNOLOGIST</p>
+  
+  <!-- Decorative divider -->
+  <div style="
+    width: 64px;
+    height: 4px;
+    background: linear-gradient(90deg, #6EE7B7, #3B82F6);
+    border-radius: 2px;
+    margin: 24px auto;
+  "></div>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2200&pause=900&color=C9A84C&center=true&vCenter=true&width=560&lines=JavaScript+%2F+TypeScript+%2F+Python+%2F+Java;React+%2F+Next.js+%2F+Node.js+%2F+Flutter;MongoDB+%2F+PostgreSQL+%2F+Firebase+%2F+MySQL;Docker+%2F+AWS+%2F+Git+%2F+Spring+Boot;Building+things+that+ship+and+scale.)](https://github.com/GlaceYT)
-
+  <!-- Quick contact pills -->
+  <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+    <a href="https://github.com/GlaceYT" style="
+      background: #1E293B;
+      padding: 8px 20px;
+      border-radius: 64px;
+      text-decoration: none;
+      color: #E2E8F0;
+      font-weight: 500;
+      font-size: 0.95rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid #334155;
+      transition: all 0.2s ease;
+    " onmouseover="this.style.background='#334155'; this.style.border='1px solid #6EE7B7'" onmouseout="this.style.background='#1E293B'; this.style.border='1px solid #334155'">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="18" height="18" style="filter: invert(1)"/> GitHub
+    </a>
+    <a href="https://www.linkedin.com/in/ponnalashivacharan" style="
+      background: #1E293B;
+      padding: 8px 20px;
+      border-radius: 64px;
+      text-decoration: none;
+      color: #E2E8F0;
+      font-weight: 500;
+      font-size: 0.95rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid #334155;
+      transition: all 0.2s ease;
+    " onmouseover="this.style.background='#334155'; this.style.border='1px solid #3B82F6'" onmouseout="this.style.background='#1E293B'; this.style.border='1px solid #334155'">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: invert(1)"/> LinkedIn
+    </a>
+    <a href="mailto:Ponnala9300@gmail.com" style="
+      background: #1E293B;
+      padding: 8px 20px;
+      border-radius: 64px;
+      text-decoration: none;
+      color: #E2E8F0;
+      font-weight: 500;
+      font-size: 0.95rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid #334155;
+      transition: all 0.2s ease;
+    " onmouseover="this.style.background='#334155'; this.style.border='1px solid #9333EA'" onmouseout="this.style.background='#1E293B'; this.style.border='1px solid #334155'">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="18" height="18" style="filter: invert(1)"/> Email
+    </a>
+    <a href="https://glaceyt.com/portfolio" style="
+      background: #1E293B;
+      padding: 8px 20px;
+      border-radius: 64px;
+      text-decoration: none;
+      color: #E2E8F0;
+      font-weight: 500;
+      font-size: 0.95rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid #334155;
+      transition: all 0.2s ease;
+    " onmouseover="this.style.background='#334155'; this.style.border='1px solid #F59E0B'" onmouseout="this.style.background='#1E293B'; this.style.border='1px solid #334155'">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="18" height="18" style="filter: invert(1)"/> Portfolio
+    </a>
+  </div>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
-
-<br/>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="56%" valign="top">
-
-### `◈  WHO I AM`
-
-Full-stack developer comfortable across the entire product lifecycle —
-from architecting database schemas to building pixel-level UI components.
-
-Shipped production-grade systems across **web**, **mobile**, **desktop**,
-and **game** environments. I write code that ships, scales, and doesn't
-break at 3am.
-
-```
-LOCATION   ›  Hyderabad, India
-FOCUS      ›  Web · Mobile · Cloud · Game Dev
-STATUS     ›  Open to collabs & freelance
-PORTFOLIO  ›  glaceyt.com/portfolio
-EMAIL      ›  Ponnala9300@gmail.com
-```
-
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
-
-<br/>
-
-### `◈  STACK`
-
-<br/>
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)&nbsp;
-![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=239120)&nbsp;
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2)
-
-<br/>
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)&nbsp;
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B)&nbsp;
-![Electron](https://img.shields.io/badge/Electron-0d1117?style=flat-square&logo=electron&logoColor=47848F)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![Discord.js](https://img.shields.io/badge/Discord.js-0d1117?style=flat-square&logo=discord&logoColor=5865F2)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
-
-<br/>
-
-**Data**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-
-<br/>
-
-**Cloud · DevOps · Tooling**
-
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)&nbsp;
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)&nbsp;
-![npm](https://img.shields.io/badge/npm-0d1117?style=flat-square&logo=npm&logoColor=CB3837)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
-![Blender](https://img.shields.io/badge/Blender-0d1117?style=flat-square&logo=blender&logoColor=E87D0D)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-0d1117?style=flat-square&logo=unity&logoColor=ffffff)&nbsp;
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0d1117?style=flat-square&logo=unrealengine&logoColor=ffffff)&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android_Studio-0d1117?style=flat-square&logo=androidstudio&logoColor=3DDC84)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
-
-<br/>
-
-### `◈  METRICS`
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="6">
-<tr>
-<td align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GlaceYT&theme=github-dark-blue&hide_border=true&background=00000000&stroke=C9A84C&ring=C9A84C&fire=C9A84C&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=888888&sideLabels=888888&dates=888888)](https://github.com/GlaceYT)
-
-</td>
-<td align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlaceYT&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=C9A84C&text_color=ffffff&langs_count=8)](https://github.com/GlaceYT)
-
-</td>
-</tr>
-</table>
-
+<!-- About Section – Unique card with left accent -->
+<div style="
+  background: #FFFFFF;
+  border: 1px solid #E2E8F0;
+  border-left: 6px solid #3B82F6;
+  border-radius: 16px;
+  padding: 28px 32px;
+  margin: 0 0 48px 0;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.02);
+">
+  <h2 style="
+    margin: 0 0 16px 0;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #0F172A;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  ">
+    <span style="
+      background: linear-gradient(135deg, #3B82F6, #9333EA);
+      width: 8px;
+      height: 32px;
+      border-radius: 4px;
+      display: inline-block;
+    "></span>
+    About Me
+  </h2>
+  <p style="
+    color: #475569;
+    font-size: 1.1rem;
+    line-height: 1.7;
+    margin: 0;
+  ">
+    I architect digital experiences from concept to deployment. 
+    With deep expertise across the full stack, I turn complex problems into 
+    polished, high-performance applications. I’m equally passionate about 
+    clean code, intuitive design, and the subtle details that make software 
+    feel alive.
+  </p>
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
-
-<br/>
-
-### `◈  ACTIVITY`
-
+<!-- Tech Stack – Grid-based unique layout -->
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GlaceYT&theme=github-compact&bg_color=00000000&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=C9A84C&hide_border=true)](https://github.com/GlaceYT)
-
+  <h2 style="
+    font-size: 2rem;
+    font-weight: 700;
+    color: #0F172A;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+  ">
+    <span style="color: #3B82F6;">▹</span> Technical Arsenal <span style="color: #9333EA;">◃</span>
+  </h2>
 </div>
 
-<br/>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 28px; margin-bottom: 48px;">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
+  <!-- Languages -->
+  <div style="
+    background: #F8FAFC;
+    border-radius: 24px;
+    padding: 24px;
+    border: 1px solid #E2E8F0;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 20px 32px rgba(0,0,0,0.06)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+    <h3 style="
+      margin: 0 0 20px 0;
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #0F172A;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    ">
+      <span style="font-size: 1.5rem;">📐</span> Languages
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">JavaScript</span>
+      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">TypeScript</span>
+      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Python</span>
+      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Java</span>
+      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">C++</span>
+      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">C#</span>
+      <span style="background: #DBEAFE; color: #1E40AF; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Dart</span>
+    </div>
+  </div>
 
-<br/>
+  <!-- Frameworks & Libraries -->
+  <div style="
+    background: #F8FAFC;
+    border-radius: 24px;
+    padding: 24px;
+    border: 1px solid #E2E8F0;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 20px 32px rgba(0,0,0,0.06)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+    <h3 style="
+      margin: 0 0 20px 0;
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #0F172A;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    ">
+      <span style="font-size: 1.5rem;">⚙️</span> Frameworks
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">React</span>
+      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Next.js</span>
+      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Node.js</span>
+      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Express</span>
+      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Flutter</span>
+      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Electron</span>
+      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Discord.js</span>
+      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">TensorFlow</span>
+      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Spring Boot</span>
+      <span style="background: #F3E8FF; color: #6B21A8; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Pandas</span>
+    </div>
+  </div>
 
-### `◈  CONNECT`
+  <!-- Databases -->
+  <div style="
+    background: #F8FAFC;
+    border-radius: 24px;
+    padding: 24px;
+    border: 1px solid #E2E8F0;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 20px 32px rgba(0,0,0,0.06)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+    <h3 style="
+      margin: 0 0 20px 0;
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #0F172A;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    ">
+      <span style="font-size: 1.5rem;">🗄️</span> Databases
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <span style="background: #D1FAE5; color: #065F46; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">MongoDB</span>
+      <span style="background: #D1FAE5; color: #065F46; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Firebase</span>
+      <span style="background: #D1FAE5; color: #065F46; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">PostgreSQL</span>
+      <span style="background: #D1FAE5; color: #065F46; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">MySQL</span>
+    </div>
+  </div>
 
-<br/>
+  <!-- Cloud & DevOps -->
+  <div style="
+    background: #F8FAFC;
+    border-radius: 24px;
+    padding: 24px;
+    border: 1px solid #E2E8F0;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 20px 32px rgba(0,0,0,0.06)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+    <h3 style="
+      margin: 0 0 20px 0;
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #0F172A;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    ">
+      <span style="font-size: 1.5rem;">☁️</span> Cloud & DevOps
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <span style="background: #FEF3C7; color: #92400E; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">AWS</span>
+      <span style="background: #FEF3C7; color: #92400E; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Docker</span>
+      <span style="background: #FEF3C7; color: #92400E; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Git</span>
+      <span style="background: #FEF3C7; color: #92400E; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">npm</span>
+      <span style="background: #FEF3C7; color: #92400E; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Postman</span>
+    </div>
+  </div>
 
-<div align="center">
+  <!-- Design & Creative Tools -->
+  <div style="
+    background: #F8FAFC;
+    border-radius: 24px;
+    padding: 24px;
+    border: 1px solid #E2E8F0;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 20px 32px rgba(0,0,0,0.06)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+    <h3 style="
+      margin: 0 0 20px 0;
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #0F172A;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    ">
+      <span style="font-size: 1.5rem;">🎨</span> Design & Creative
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <span style="background: #FFEDD5; color: #9A3412; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Figma</span>
+      <span style="background: #FFEDD5; color: #9A3412; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Photoshop</span>
+      <span style="background: #FFEDD5; color: #9A3412; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">After Effects</span>
+      <span style="background: #FFEDD5; color: #9A3412; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Blender</span>
+      <span style="background: #FFEDD5; color: #9A3412; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Unity</span>
+      <span style="background: #FFEDD5; color: #9A3412; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Unreal Engine</span>
+    </div>
+  </div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=C9A84C&label=glaceyt.com%2Fportfolio)](https://glaceyt.com/portfolio)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&label=ponnalashivacharan)](https://www.linkedin.com/in/ponnalashivacharan)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff&label=GlaceYT)](https://github.com/GlaceYT)&nbsp;&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000&label=%40GlaceYT)](https://www.youtube.com/@GlaceYT)&nbsp;&nbsp;
-[![Replit](https://img.shields.io/badge/Replit-0d1117?style=flat-square&logo=replit&logoColor=667881&label=%40GlaceYT)](https://replit.com/@GlaceYT)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&label=Ponnala9300)](mailto:Ponnala9300@gmail.com)
+  <!-- IDEs & Editors -->
+  <div style="
+    background: #F8FAFC;
+    border-radius: 24px;
+    padding: 24px;
+    border: 1px solid #E2E8F0;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 20px 32px rgba(0,0,0,0.06)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+    <h3 style="
+      margin: 0 0 20px 0;
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #0F172A;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    ">
+      <span style="font-size: 1.5rem;">🖥️</span> Editors
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <span style="background: #E0E7FF; color: #3730A3; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">VS Code</span>
+      <span style="background: #E0E7FF; color: #3730A3; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Visual Studio</span>
+      <span style="background: #E0E7FF; color: #3730A3; padding: 6px 16px; border-radius: 32px; font-size: 0.9rem; font-weight: 600;">Android Studio</span>
+    </div>
+  </div>
+</div>
+
+<!-- Footer with wave -->
+<div align="center" style="margin-top: 64px;">
+  <svg width="100%" height="64" viewBox="0 0 1440 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0,64L48,58.7C96,53,192,43,288,48C384,53,480,75,576,80C672,85,768,75,864,64C960,53,1056,43,1152,42.7C1248,43,1344,53,1392,58.7L1440,64L1440,100L1392,100C1344,100,1248,100,1152,100C1056,100,960,100,864,100C768,100,672,100,576,100C480,100,384,100,288,100C192,100,96,100,48,100L0,100Z" fill="url(#gradient)" />
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#3B82F6" />
+        <stop offset="50%" stop-color="#9333EA" />
+        <stop offset="100%" stop-color="#6EE7B7" />
+      </linearGradient>
+    </defs>
+  </svg>
+  <p style="color: #64748B; font-size: 0.9rem; margin-top: 8px;">
+    © 2026 Ponnala Shiva Reddy · Built with creativity, not templates.
+  </p>
 </div>
