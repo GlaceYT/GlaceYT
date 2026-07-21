@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 - 🔭 I'm a **Full-Stack Developer**
-- 📧 Reach me at: **Ponnala9300@gmail.com**
+- 📧 Reach me at: **Ponnalashiva@outlook.com**
 - 🌐 Portfolio: **[glaceyt.com/portfolio](https://glaceyt.com/portfolio)**
 
 
