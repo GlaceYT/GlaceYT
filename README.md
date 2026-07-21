@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/GfTxbJfC/7-edited.png" alt="Banner" width="100%"/>
 </div>
 
-<h1 align="center">Hi, I'm Ponnala Shiva Reddy</h1>
+<h1 align="center">Hi, I'm Ponnala Shiva Charan</h1>
 
 ### 🚀 About Me
 
